@@ -9,6 +9,17 @@ What is array: Array used to store multiple values in a single variable.
  **length-1**  is used to find the last value 
  Finding First,Second,third.... values 
  **Ex:name[0],name[1]**.....
+ We are giving arrays to the internal file
+
+ 2. Add to Array:
+  Taking empty Array[]
+  We using **push** function
+ Ex: **var animals =[]
+    animals.push(inputTest)**
+  We have giving arrays to external file
+
+
+
 
 
 
