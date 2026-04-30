@@ -1,8 +1,7 @@
 document.getElementById("btnSubmit").addEventListener("click",function(){
     debugger;
-    for (i=0; i<=13; i++){
-        debugger;
-        console.log("hima")
+    for (i=1; i<=100; i=i+2){
+        console.log(i)
     }
     
 });
