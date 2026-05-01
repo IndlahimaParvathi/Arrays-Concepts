@@ -43,5 +43,14 @@ document.getElementById("btnOdd").addEventListener("click",function(){
     
 });
 
+document.getElementById("btnDecrease").addEventListener("click",function(){
+    debugger;
+    var number=Number(document.getElementById("txtNumber").value);
+    for (i=100; i>=number; i--){
+        console.log(i)
+    }
+    
+});
+
 
 
