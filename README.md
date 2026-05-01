@@ -18,6 +18,7 @@ What is array: Array used to store multiple values in a single variable.
     animals.push(inputTest)**
   We have giving arrays to external file
 
+3. 
 
 
 

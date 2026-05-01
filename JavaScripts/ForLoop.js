@@ -37,7 +37,7 @@ document.getElementById("btnEven").addEventListener("click",function(){
 document.getElementById("btnOdd").addEventListener("click",function(){
     debugger;
     var number=Number(document.getElementById("txtNumber").value);
-    for (i=1; i<=number; i=i+1){
+    for (i=1; i<=number; i=i+2){
         console.log(i)
     }
     
